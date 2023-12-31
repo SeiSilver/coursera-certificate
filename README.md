@@ -19,7 +19,7 @@ Welcome to the repository where I document and showcase the certificates I have 
 - Promote the Ethical Use of Data-Driven Technologies
 - Turn Ethical Frameworks into Actionable Steps
 
-- **Issued by:** CertNexus
+> **Issued by:** CertNexus
 
 ### 2. Information Systems
 
@@ -28,7 +28,7 @@ Welcome to the repository where I document and showcase the certificates I have 
 - Enterprise Systems
 - IT Infrastructure and Emerging Trends
 
-- **Issued by:** University of Minnesota
+> **Issued by:** University of Minnesota
 
 ### 3. Project Management Principles and Practices
 
@@ -37,7 +37,7 @@ Welcome to the repository where I document and showcase the certificates I have 
 - Managing Project Risks and Changes
 - Project Management Project
 
-- **Issued by:** University of California, Irvine
+> **Issued by:** University of California, Irvine
 
 ### 4. Startup Entrepreneurship
 
@@ -46,7 +46,7 @@ Welcome to the repository where I document and showcase the certificates I have 
 - Innovation Career Lessons from a Master
 - Action-Driven Business Plan: From the ‘Classroom’ to the World
 
-- **Issued by:** Technion - Israel Institute of Technology
+> **Issued by:** Technion - Israel Institute of Technology
 
 ### 5. Web Design for Everybody Basics of Web Development & Coding
 
@@ -56,7 +56,7 @@ Welcome to the repository where I document and showcase the certificates I have 
 - Web Design for Everybody Capstone
 - Introduction to CSS3
 
-- **Issued by:** University of Michigan
+> **Issued by:** University of Michigan
 
 ## How to Verify
 
